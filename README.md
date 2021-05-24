@@ -8,7 +8,7 @@ The purpose of this analysis is to help finish her partially completed “Belly 
 
 Results
 
-An interactive page, including interactive charts,  was created to visualize and explore the bacterial dataset for each volunteer as shown in Fig 1.7 and Fig 1.8 below.  The link to the page is  https://hurpey.github.io/plotlydeploy/
+An interactive webpage, including interactive charts,  was created to visualize and explore the bacterial dataset for each volunteer as shown in Fig 1.7 and Fig 1.8 below.  The link to the webpage is  https://hurpey.github.io/plotlydeploy/
 
 Fig 1.8
 <img width="861" alt="Fig 1 8" src="https://user-images.githubusercontent.com/79670933/119284120-f3bfe100-bc0c-11eb-8f31-cb33dbc76dd3.png">
@@ -47,4 +47,22 @@ Fig 1.1
 Fig 1.5
 <img width="229" alt="Fig 1 5" src="https://user-images.githubusercontent.com/79670933/119284087-dc80f380-bc0c-11eb-84be-508e89685862.png">
 
+4. Using HTML and Bootstrap, the webbpage for the dashboard was customized as follows.
 
+body {
+
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+  }
+ 
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+
+Also, when the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and the three charts working according to their requirements. When a sample is selected, the dashboard displays the data in the panel and all three charts according to their requirements.
