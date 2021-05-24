@@ -50,12 +50,11 @@ Fig 1.5
 4. Using HTML and Bootstrap, the webbpage for the dashboard was customized as follows.
 
 body {
-
     color: #000000;
     background-color: rgb(255, 255, 255);
   }
- 
- .tag {
+
+.tag {
      font-family: inherit; 
      font-size: 1rem;
     }  
@@ -64,5 +63,6 @@ body {
     background-image: url("../images/bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
+    }
 
 Also, when the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and the three charts working according to their requirements. When a sample is selected, the dashboard displays the data in the panel and all three charts according to their requirements.
