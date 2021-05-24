@@ -8,7 +8,7 @@ The purpose of this analysis is to help finish her partially completed “Belly 
 
 Results
 
-A responsive html page was created to visualize the bacterial data for each volunteer as shown in Fig 1.7 and Fig 1.8 below.  The link to the html page is  https://hurpey.github.io/plotlydeploy/
+An interactive page, including interactive charts,  was created to visualize and explore the bacterial dataset for each volunteer as shown in Fig 1.7 and Fig 1.8 below.  The link to the page is  https://hurpey.github.io/plotlydeploy/
 
 Fig 1.8
 <img width="861" alt="Fig 1 8" src="https://user-images.githubusercontent.com/79670933/119284120-f3bfe100-bc0c-11eb-8f31-cb33dbc76dd3.png">
